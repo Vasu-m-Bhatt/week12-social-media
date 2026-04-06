@@ -121,15 +121,7 @@ CLOUDINARY_API_SECRET=your_api_secret
 
 ---
 
-## Screenshots
 
-Add screenshots of:
-
-* Login page
-* Chat interface
-* Image sharing
-
----
 
 ## Key Learnings
 
@@ -150,13 +142,6 @@ Add screenshots of:
 * Notification system
 
 ---
-
-## Author
-
-Aarav
-
----
-
 ## Conclusion
 
 This project represents a complete full-stack application integrating frontend, backend, database, and real-time communication, similar to modern messaging platforms.
